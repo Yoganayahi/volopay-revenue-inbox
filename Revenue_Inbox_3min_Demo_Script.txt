@@ -1,0 +1,17 @@
+REVENUE INTELLIGENCE INBOX — 3-MINUTE SCREEN-RECORDING GUIDE
+Use this as a guide, not as a script to read mechanically. Record one continuous screen capture with your own voice.
+
+0:00–0:25 — Overview
+“This is my Revenue Intelligence Inbox for the selected 21 August activity. It contains 44 unique source records: 30 calls and 14 meetings. The data is a selected sample, not a representative performance ranking. The dashboard shows transcript coverage separately from source-reported connection status.”
+
+0:25–0:55 — Manager workflow
+“I can filter by source type or person, search records, open a conversation, and inspect the source evidence behind its route and next step. Missing text stays visible as an intake/review exception; I do not invent a summary when no transcript was supplied.”
+
+0:55–1:35 — Difficult routing decision: M07
+“I’ll open M07. This meeting has several product issues. In turn 12, the invoice inbox upload works; in turn 14, the speaker explicitly says the workaround does not mean the direct upload issue is resolved. I route it to Product / integration and keep it marked for review, because a workaround and a fix are different. The newer transcript also contains other issues, so this should be reviewed by a human rather than reduced to a generic summary.”
+
+1:35–2:35 — Duplicate/update test
+“Now I’ll reset the demo. I import the initial batch and the unique record count is 44. I’ll import it again in reverse order. The same source_type/source_id identities and revision rules prevent duplicate activity; the count stays 44. I’ll select M07 and save a manual route. Now I apply the later update. The revised transcript becomes visible, but the record count remains 44 and my manual route is preserved. The analysis is flagged for review because the source text changed.”
+
+2:35–3:00 — Export and close
+“Finally, Export current state downloads a JSON bundle and CSV manifest. Each manifest row points to a generated output path and records revision, route, review state, manual override and analysis freshness. The main trade-off is that routing is deterministic and reviewable, rather than pretending to be a live AI model.”

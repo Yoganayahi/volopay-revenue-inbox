@@ -1,0 +1,10 @@
+VOLOPAY ASSIGNMENT PACKAGE
+
+1) Open index.html in Chrome/Edge to run the working local app.
+2) Read README.md for replay test and metrics.
+3) Revenue_Intelligence_Decisions.pptx = 5 slides for Task 1.
+4) College_Event_Plan_TNWISE_Next_Edition.docx = Task 2 proposed event plan. Verify event-specific facts and personalise before submission.
+5) The two video script text files are narration guides. You must record both videos yourself.
+6) exports/ contains per-record JSON outputs, manifest CSV/JSON, and a combined export bundle.
+
+Important: I cannot publish a hosted URL or record your personal narration from here. You must deploy index.html to an approved host, test reviewer access, record the videos, and submit the Google Form before the deadline. Do not claim that proposed event estimates/approvals are actual facts.
